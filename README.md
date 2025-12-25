@@ -97,11 +97,6 @@ cafe-new-touch/
 
 ## 📱 Contact Information
 
-- **Address**: Shop no.16, Nawathe Paradise, Parasnagar, Kamani Karwanchiwadi, Ratnagiri, MH 415639
-- **Phone**: +91 83089 55699
-- **Hours**: 
-  - Monday - Saturday: 11:00 AM – 2:00 PM, 5:00 PM – 10:00 PM
-  - Sunday: 5:00 PM – 10:00 PM
 
 ## 🍽️ Menu Categories
 
